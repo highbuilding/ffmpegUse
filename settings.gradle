@@ -1,0 +1,3 @@
+rootProject.name = "ffmpegUse"
+include ':app'
+include ':av_ffmpeg'
